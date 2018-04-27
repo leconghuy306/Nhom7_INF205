@@ -388,12 +388,6 @@ th {
 <<<<<<< HEAD
 
 
-td {
-    background: gray;
-}
-tr {
-    background: gray;
-}
 
 
 .backkkk
@@ -413,3 +407,6 @@ span#ListView1_full_nameLabel_1 {
     color: green;
 }
 
+table#ListView1_itemPlaceholderContainer {
+    background: yellow;
+}
