@@ -385,3 +385,6 @@ th {
     height: 100%;
     background: rgba(0, 0, 0, 0.5);
 }
+span#ListView1_full_nameLabel_0 {
+    color: green;
+}
