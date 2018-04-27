@@ -166,7 +166,7 @@
                                             <asp:Button ID="DeleteButton" runat="server" CommandName="Delete" Text="Delete" CssClass="btn btn-danger"/>
                                         </td>
                                         <td>
-                                            <asp:Label ID="client_idLabel" runat="server" Text='<%# Eval("client_id") %>' />
+                                            <asp:Label ID="client_idLabel" runat="server"  Text='<%# Eval("client_id") %>' />
                                         </td>
                                         <td>
                                             <asp:Label ID="full_nameLabel" runat="server" Text='<%# Eval("full_name") %>' />
