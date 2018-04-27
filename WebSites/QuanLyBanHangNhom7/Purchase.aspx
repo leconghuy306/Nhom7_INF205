@@ -99,7 +99,7 @@
                 </div>
             </div>
         </div>
-        <div class="content">
+        <div Style="background:blue;" class="content">
             <div class="container">
                 <div class="row">
                     <div class="col-md-2">
