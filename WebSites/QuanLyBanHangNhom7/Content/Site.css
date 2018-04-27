@@ -406,3 +406,6 @@ span#ListView1_full_nameLabel_0 {
 .content {
     background: blue;
 }
+span#ListView1_full_nameLabel_0 {
+    color: green;
+}
