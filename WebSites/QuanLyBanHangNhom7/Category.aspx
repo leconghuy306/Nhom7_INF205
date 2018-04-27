@@ -239,13 +239,13 @@
                                 <LayoutTemplate>
                                     <table runat="server" class="table table-responsive">
                                         <tr runat="server">
-                                            <td runat="server">
+                                            <td runat="server" style="background:gray;">
                                                 <table id="itemPlaceholderContainer" runat="server" border="1" style="width:980px;" class="table table-responsive">
-                                                    <tr runat="server" style="">
+                                                    <tr runat="server" style="background:gray;">
                                                         <th class="buttomrow" runat="server"></th>
-                                                        <th runat="server">productcategory_id</th>
-                                                        <th runat="server">parent_category_id</th>
-                                                        <th runat="server">names</th>
+                                                        <th   style="background:gray;" runat="server">productcategory_id</th>
+                                                        <th style="background:gray;" runat="server">parent_category_id</th>
+                                                        <th style="background:gray;" runat="server">names</th>
                                                     </tr>
                                                     <tr id="itemPlaceholder" runat="server">
                                                     </tr>
