@@ -396,3 +396,7 @@ span#ListView1_full_nameLabel_0 {
     color: green;
 }
 >>>>>>> ce529e5af85911bdcc330971ea6cf1a224878d38
+
+.content {
+    background: blue;
+}
