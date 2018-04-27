@@ -239,7 +239,7 @@
                                 <LayoutTemplate>
                                     <table runat="server" class="table table-responsive">
                                         <tr runat="server">
-                                            <td runat="server" style="background:gray;">
+                                            <td runat="server" style="background:gray;" class="backkkk">
                                                 <table id="itemPlaceholderContainer" runat="server" border="1" style="width:980px;" class="table table-responsive">
                                                     <tr runat="server" style="background:gray;">
                                                         <th class="buttomrow" runat="server"></th>
